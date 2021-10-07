@@ -1,7 +1,6 @@
 package tutorial4;
 
-import junit.framework.Assert;
-import junit.framework.TestCase;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
